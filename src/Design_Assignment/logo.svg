@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Oval</title>
+    <defs>
+        <linearGradient x1="29.5399306%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4224DF" offset="0%"></stop>
+            <stop stop-color="#856FF5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kanban" transform="translate(-166.000000, -142.000000)" fill="url(#linearGradient-1)">
+            <g id="app" transform="translate(130.000000, 126.000000)">
+                <g id="Navbar">
+                    <path d="M54,52 C63.9411255,52 72,43.9411255 72,34 C72,29.9983492 62.6087627,36.9888046 60.4,34 C57.1216304,29.5638485 59.9394747,16 54,16 C44.0588745,16 36,24.0588745 36,34 C36,43.9411255 44.0588745,52 54,52 Z" id="Oval"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
